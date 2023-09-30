@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 83b198bd17d8c3c4db876806102d56c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_data: {instanceID: 0}
+  - m_itemButton: {instanceID: 0}
+  - m_equipSprite: {instanceID: 0}
+  - m_purchaseMessage: {instanceID: 0}
+  - m_priceText: {instanceID: 0}
+  - m_greyScale: {fileID: 2100000, guid: eb0a366ee8beb7840898799c66199cf6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

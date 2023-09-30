@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BetaWhite
+  m_Controller: {fileID: 9100000, guid: 90768cd34f880f74fb73c9cbd77bd389, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f81b41fc74a9c0246ae6e3610ad5038d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 74bb65c7a8954124bb13e53962ed597c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 60f5ba93dc050814292c8b3e86046610, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a26a6186b3fac8449af34db8a0706d44, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d581f8ff82b65134289f32605cf62905, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6ca227409b2f2344d858067b41edd9c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aad3c47a69f928b4d9903100c0ca455f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a26a6186b3fac8449af34db8a0706d44, type: 2}
